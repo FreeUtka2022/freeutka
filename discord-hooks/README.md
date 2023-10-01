@@ -14,7 +14,7 @@ Basic discord webhook library. Allows you to send messages, embeds to discord wi
 # Installation
 
 ```bash
-npm install discord-hooks
+npm install @freeutka/discord-hooks
 ```
 
 # Import
